@@ -419,7 +419,7 @@ def km_ui(df: pd.DataFrame):
 
                 # Stats
                 with st.expander("📊 Statistics"):
-                    if cohort_col and cohort_col != "(none)"):
+                    if cohort_col and cohort_col != "(none)":
                         st.dataframe(pd.DataFrame(rows))
                     else:
                         st.write(f"Median survival: **{rows[0]['Median survival']:.2f}**")
