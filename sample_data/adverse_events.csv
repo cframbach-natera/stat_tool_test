@@ -1,0 +1,8 @@
+patient_id,ae_start_date,ae_end_date,ae_term,ae_grade
+PT004,2022-02-06,2022-02-13,Fatigue,2
+PT005,2022-02-16,2022-02-28,Neutropenia,2
+PT006,2022-03-30,2022-04-05,Fatigue,2
+PT008,2022-04-06,2022-04-11,Rash,2
+PT010,2022-03-18,2022-03-25,Rash,1
+PT011,2022-02-18,2022-02-21,Neutropenia,2
+PT015,2022-04-21,2022-04-30,Neutropenia,2
