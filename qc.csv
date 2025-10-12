@@ -1,0 +1,4 @@
+table_name,metric_name,metric_value
+timetoevent,missing_pct(patient_id),0.0
+genomics,missing_pct(gene),0.0
+treatments,rows,102.0
