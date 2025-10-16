@@ -31,7 +31,7 @@ def render_css():
             --qs-gray-50:#F9FAFB; --qs-gray-100:#F2F4F7; --qs-gray-200:#E5E7EB; --qs-gray-300:#D0D5DD;
             --qs-gray-500:#667085; --qs-gray-700:#344054; --qs-ink:#101828;
             --primary-color:#329ADB; --secondary-background-color:#F2F4F7; --text-color:#101828;
-            --qs-top-offset: 64px; }
+            --qs-top-offset: 84px; }
     .block-container{padding-top:1rem;padding-bottom:2rem;}
     .stTabs [role="tablist"]{position:sticky;top:var(--qs-top-offset);z-index:1000;background:#fff;padding:6px 0 0;margin:0 0 8px;border-bottom:1px solid var(--qs-gray-200);}
     .stTabs [role="tab"]{color:var(--qs-ink)!important;opacity:1!important;font-weight:600!important;background:transparent!important;border-bottom:2px solid transparent!important;}
